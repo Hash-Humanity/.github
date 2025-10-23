@@ -12,14 +12,36 @@ And we sure as hell don’t touch your biometrics.
 
 You’re not the product — you’re the proof.
 
+## 🗣️ Multilingual by Design
+
+Hash Humanity is built for a global community.  
+The entire platform is **bi-lingual** and supports **real-time translation** across multiple languages — so verified humans can connect, share, and Pulse across borders.
+
+- 🌐 Automatic translation of posts, comments, and profiles  
+- 🧠 Serverless translation logic for speed and privacy  
+- 🫱🏽‍🫲🏿 No language barriers — just human connection  
+
+Whether you're posting in English, Spanish, or beyond, your voice is heard and understood.
+
 ## ⚡ PULSE — The Heartbeat of Humanity
 
-**Pulse** is our built-in micro-tipping system that lets users instantly send small, peer-to-peer payments across the network.  
-It’s built on **Worldcoin** and integrated through **WalletConnect**, letting you reward content creators and contributors directly — no middlemen, no fees, no bullshit.
+**Pulse** is our built-in micro-transaction system that lets users instantly send small, peer-to-peer payments across the network.  
+It’s powered by **Worldcoin** and integrated through **WalletConnect**, enabling you to reward content creators and contributors directly — no middlemen, no fees, no friction.
 
 Pulse isn’t just a button.  
 It’s a currency of gratitude. A signal that something resonated.  
 Every Pulse keeps the network alive.
+
+## 🧼 No Toxic Algorithms
+
+Your feed is **not** dictated by engagement-maximizing, rage-farming, dopamine-hacking algorithms.  
+We don’t manipulate what you see. We don’t push outrage. We don’t reward noise.
+
+- 🧭 Chronological feed  
+- 🧠 Human-curated content  
+- 🚫 No algorithmic distortion  
+
+What you see is what real people post — no filters, no tricks, no toxicity.
 
 ## 🧠 Built by Humans, for Humans
 
@@ -28,7 +50,7 @@ Hash Humanity was built from the ground up using:
 - ⚛️ React + Vite (frontend)  
 - 🔥 Firebase (Auth, DB, and Storage)  
 - 🧠 World ID integration for human verification  
-- ☁️ Serverless Cloud Functions for translation, tipping, and verification logic  
+- ☁️ Serverless Cloud Functions for translation, micro-transactions, and verification logic  
 
 Every piece of this ecosystem was designed with **privacy**, **verification**, and **decentralization** in mind.
 
@@ -69,4 +91,3 @@ All trademarks and technologies remain the property of their respective owners.
 If you have questions about licensing, usage, or partnership opportunities, please contact the maintainers directly.
 
 > ⚠️ Hash Humanity is in active development. Expect rapid iteration, bold ideas, and a few bugs along the way. This is the internet, rebuilt for humans.
-
