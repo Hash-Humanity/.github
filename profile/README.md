@@ -1,7 +1,7 @@
 # 🧬 HASH HUMANITY  
 **You are the proof.**
 
-## 🌍 A Human-Verified Social Network
+##  A Human-Verified Social Network
 
 Hash Humanity is the world’s first social media platform built exclusively for verified humans.  
 No bots. No spam. No fake accounts. Every user verifies through **World ID** — proof-of-personhood powered by zero-knowledge cryptography.
@@ -12,18 +12,18 @@ And we sure as hell don’t touch your biometrics.
 
 You’re not the product — you’re the proof.
 
-## 🗣️ Multilingual by Design
+##  Multilingual by Design
 
 Hash Humanity is built for a global community.  
 The entire platform is **bi-lingual** and supports **real-time translation** across multiple languages — so verified humans can connect, share, and Pulse across borders.
 
-- 🌐 Automatic translation of posts, comments, and profiles  
-- 🧠 Serverless translation logic for speed and privacy  
-- 🫱🏽‍🫲🏿 No language barriers — just human connection  
+-  Automatic translation of posts, comments, and profiles  
+-  Serverless translation logic for speed and privacy  
+-  No language barriers — just human connection  
 
 Whether you're posting in English, Spanish, or beyond, your voice is heard and understood.
 
-## ⚡ PULSE — The Heartbeat of Humanity
+##  PULSE — The Heartbeat of Humanity
 
 **Pulse** is our built-in micro-transaction system that lets users instantly send small, peer-to-peer payments across the network.  
 It’s powered by **Worldcoin** and integrated through **WalletConnect**, enabling you to reward content creators and contributors directly — no middlemen, no fees, no friction.
@@ -32,18 +32,18 @@ Pulse isn’t just a button.
 It’s a currency of gratitude. A signal that something resonated.  
 Every Pulse keeps the network alive.
 
-## 🧼 No Toxic Algorithms
+##  No Toxic Algorithms
 
 Your feed is **not** dictated by engagement-maximizing, rage-farming, dopamine-hacking algorithms.  
 We don’t manipulate what you see. We don’t push outrage. We don’t reward noise.
 
-- 🧭 Chronological feed  
-- 🧠 Human-curated content  
-- 🚫 No algorithmic distortion  
+-  Chronological feed  
+-  Human-curated content  
+-  No algorithmic distortion  
 
 What you see is what real people post — no filters, no tricks, no toxicity.
 
-## 🧠 Built by Humans, for Humans
+##  Built by Humans, for Humans
 
 Hash Humanity was built from the ground up using:
 
@@ -54,7 +54,7 @@ Hash Humanity was built from the ground up using:
 
 Every piece of this ecosystem was designed with **privacy**, **verification**, and **decentralization** in mind.
 
-## 🔒 No Biometrics, No Data Harvesting
+##  No Biometrics, No Data Harvesting
 
 - ❌ We don’t store or process biometric data — World ID handles verification cryptographically.  
 - ❌ We don’t sell or share user data — ever.  
@@ -63,20 +63,20 @@ Every piece of this ecosystem was designed with **privacy**, **verification**, a
 Your identity belongs to you.  
 And that’s the point.
 
-## 💫 Vision
+##  Vision
 
 Hash Humanity exists to reclaim the digital social space for real people.  
 We believe in **verified freedom** — a world where humans can connect, share, and create without bots drowning them out.  
 We believe identity can be **private and provable**.  
 And we believe the internet should belong to humans again.
 
-## 🚀 Join the Movement
+##  Join the Movement
 
 - 🌐 [hashhumanity.world](https://hashhumanity.world)  
 - 🪩 Powered by World ID  
 - ⚙️ Developed with ❤️ by real humans  
 
-## ⚖️ Legal Disclosure
+##  Legal Disclosure
 
 **Hash Humanity™** is a proprietary concept, brand, and platform developed and owned by the creators of this repository.  
 All rights to the name, logo, design, and underlying intellectual property associated with Hash Humanity are reserved.
